@@ -111,6 +111,6 @@ struct ReporterView: View {
             .padding(.top, 30)
             
         }
-        }.frame(height:550)
+        }//.frame(height:550)
         }
     }
